@@ -13,3 +13,10 @@ function multiple(a,b){
 function divide(a,b){
   a /= b
 }
+
+function increment(n){
+  n++
+}
+function decrement(n){
+  n--
+}

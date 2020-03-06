@@ -1,7 +1,7 @@
 var number = 25
 
 function add(a,b){
-  a += b
+  x=a+b
   return
 }
 function subtract(a,b){

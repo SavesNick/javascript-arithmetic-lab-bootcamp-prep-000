@@ -1,26 +1,22 @@
 var number = 25
 
 function add(a,b){
-  a+b
-  return a
+  return a+=b
 }
 function subtract(a,b){
-  a-=b
-  return a
+  return  a-=b
 }
 
 function multiple(a,b){
-  a *= b
-  return a
+  return  a *= b
 }
 function divide(a,b){
-return  a /= b
+  return  a /= b
 }
 
 function increment(n){
-  n++
-  return n
+  return n++
 }
 function decrement(n){
-  n--
+ return n--
 }

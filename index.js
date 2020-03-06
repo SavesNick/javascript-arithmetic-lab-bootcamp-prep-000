@@ -1,8 +1,8 @@
 var number = 25
 
 function add(a,b){
-  x=a+b
-  return
+  a+b
+  return a
 }
 function subtract(a,b){
   a-=b
@@ -11,14 +11,15 @@ function subtract(a,b){
 
 function multiple(a,b){
   a *= b
+  return a
 }
 function divide(a,b){
-  a /= b
-  return
+return  a /= b
 }
 
 function increment(n){
   n++
+  return n
 }
 function decrement(n){
   n--

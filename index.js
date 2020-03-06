@@ -5,6 +5,6 @@ function add(){
 }
 
 
-function subtract(){};
-function multiple(){};
-function divide(){};
+function subtract(){}
+function multiple(){}
+function divide(){}

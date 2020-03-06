@@ -5,8 +5,8 @@ function add(a,b){
   return
 }
 function subtract(a,b){
-  x=a-b
-  return x
+  a-=b
+  return a
 }
 
 function multiple(a,b){

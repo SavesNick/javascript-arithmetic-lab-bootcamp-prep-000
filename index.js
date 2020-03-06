@@ -12,6 +12,7 @@ function multiple(a,b){
 }
 function divide(a,b){
   a /= b
+  return divide
 }
 
 function increment(n){

@@ -2,6 +2,7 @@ var number = 25
 
 function add(a,b){
   a += b
+  return
 }
 function subtract(a,b){
   a -= b

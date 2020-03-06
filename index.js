@@ -3,8 +3,13 @@ var number = 25
 function add(a,b){
   a += b
 }
+function subtract(a,b){
+  a -= b
+}
 
-
-function subtract(){}
-function multiple(){}
-function divide(){}
+function multiple(a,b){
+  a *= b
+}
+function divide(a,b){
+  a /= b
+}
